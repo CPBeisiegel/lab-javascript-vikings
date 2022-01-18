@@ -26,7 +26,6 @@ $ git commit -m "Solved lab"
 $ git push origin master
 ```
 
-Create Pull Request so your TAs can check up your work.
 
 <br>
 
